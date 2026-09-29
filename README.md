@@ -223,24 +223,6 @@ A：图形界面的代理设置目前仅作为预留界面，核心下载器暂�
 
 ---
 
-## 🌐 GitHub 仓库设置（提高可搜索性）
-
-发布到 GitHub 后，在仓库页补全「About 描述」和「Topics 标签」，用户搜索时更容易找到你：
-
-**Description（粘贴到 About 栏的 Description 框）：**
-
-```text
-FurAffinity batch downloader with a Tkinter GUI — download galleries, scraps and favorites, with resume, auto-cookie extraction, UA rotation and Cloudflare handling.
-```
-
-**Topics（逐个添加到 About 栏下方的 Topics 标签）：**
-
-```text
-furaffinity  downloader  batch-downloader  scraper  python  tkinter  furry  gallery-downloader  crawler
-```
-
----
-
 ## 📜 许可证
 
 本项目核心下载器 `furaffinity-dl.py` 基于 [Xerbo/furaffinity-dl](https://github.com/Xerbo/furaffinity-dl)，遵循 MIT License，详见 [LICENSE](./LICENSE)。
