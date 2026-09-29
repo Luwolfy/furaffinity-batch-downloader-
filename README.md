@@ -29,6 +29,8 @@
 - ⏯️ 支持暂停 / 继续 / 跳过当前画师 / 停止
 
 ---
+<img width="2176" height="1656" alt="image" src="https://github.com/user-attachments/assets/a68a73e1-214f-4757-ab74-4e7a660fbebf" />
+---
 
 ## 📁 目录结构
 
