@@ -1,0 +1,33 @@
+{
+  "global_output": "./downloads",
+  "naming_rule": 0,
+  "custom_subdir": "",
+  "interval_mode": 2,
+  "fixed_interval": "3.5",
+  "random_min": "1.0",
+  "random_max": "3.0",
+  "ua_mode": 0,
+  "custom_ua": "",
+  "browser_for_ua": "firefox",
+  "cookie_source": 0,
+  "custom_cookie_path": "cookies.txt",
+  "browser_for_cookie": "firefox",
+  "run_mode": 1,
+  "retry_count": 3,
+  "retry_delay": 5,
+  "timeout_sec": 300,
+  "artists": [
+    {
+      "name": "example_artist",
+      "categories": [
+        "gallery"
+      ],
+      "output_base": "",
+      "interval_mode": 2,
+      "fixed_interval": 3.5,
+      "ua_mode": 0,
+      "custom_ua": "",
+      "browser": "firefox"
+    }
+  ]
+}

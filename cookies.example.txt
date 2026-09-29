@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# 这是【示例文件】，请勿把真实 Cookie 填进去后提交到公开仓库！
+#
+# 获取真实 Cookie 的两种方式：
+#   1) 图形界面内点击「🚀 一键自动配置 (Firefox)」自动提取
+#   2) 浏览器登录 FA 后用扩展导出，保存为 cookies.txt
+#
+# 格式：domain  includeSubdomain  path  secure  expires  name  value
+# .furaffinity.net	TRUE	/	TRUE	0000000000	b	xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+# .furaffinity.net	TRUE	/	TRUE	0000000000	a	xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx

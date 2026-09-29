@@ -1,0 +1,9 @@
+# 核心依赖
+beautifulsoup4
+requests
+tqdm
+
+# 图形界面增强（可选，但强烈推荐安装）
+browser-cookie3      # 一键自动提取浏览器 Cookie
+cloudscraper         # 绕过 Cloudflare 验证
+fake-useragent       # 随机 User-Agent 轮换
