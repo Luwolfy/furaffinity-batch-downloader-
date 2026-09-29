@@ -181,21 +181,6 @@ python furaffinity-dl.py -c cookies.txt -i 3 gallery koul
 
 ---
 
-## ⚙️ 配置说明（fa_projects.json）
-
-图形界面会把你的设置自动保存为 `fa_projects.json`（**此文件已被 `.gitignore` 排除，不会上传到 GitHub**）。
-
-- 输出目录、请求间隔、重试次数、Cookie 来源、UA 策略等全局设置
-- 画师列表（每个画师的名字、类别、独立输出目录等）
-
-如果你需要一份初始配置，可以把 `fa_projects.example.json` 复制为 `fa_projects.json` 后修改：
-
-```bash
-cp fa_projects.example.json fa_projects.json
-```
-
----
-
 ## ❓ 常见问题（FAQ）
 
 **Q：下载一直失败怎么办？**
